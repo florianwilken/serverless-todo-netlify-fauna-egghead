@@ -1,0 +1,19 @@
+{
+  "name": "serverless-todo-netlify-fauna-egghead",
+  "version": "1.0.0",
+  "description": "Serverless TODOs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianwilken/serverless-todo-netlify-fauna-egghead.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianwilken/serverless-todo-netlify-fauna-egghead/issues"
+  },
+  "homepage": "https://github.com/florianwilken/serverless-todo-netlify-fauna-egghead#readme"
+}
